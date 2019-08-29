@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "<font color='red'>TOMATO IT</font>"
 title_separator          : "-"
-subtitle                 : "[not 'mei' but 'ma']<br>Smart Grid Software" # site tagline that appears below site title in masthead
+subtitle                 : "TOMATO Information Technology" # site tagline that appears below site title in masthead
 name                     : "TOMATO IT"
 description              : "Smart Grid Software"
 url                      : "https://tomatox.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
